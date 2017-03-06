@@ -1,9 +1,4 @@
 function helperslexMonostaticRadarMultipleTargetsParam
-% This function is only in support of slexMonostaticRadarExample. 
-% It may be removed in a future release.
-
-%   Copyright 2014 The MathWorks, Inc.
-
     [propSpeed, fc, pulseBw, prf, fs, txGain, peakPower, ...
      matchingCoeff, metersPerSample, rangeOffset, rangeLoss, ...
      referenceLoss, targetRcs, targetPos, targetVel,lambda] = calcParams();
